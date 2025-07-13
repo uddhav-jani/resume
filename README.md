@@ -80,6 +80,6 @@ A classic browser-based Snake Game built using HTML, CSS, and JavaScript, featur
 ### Let's Connect  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jani-uddhav13/)  
-- 💼 [GitHub](https://github.com/uddhav7jani)  
+- 💼 [GitHub](https://github.com/uddhav-jani)  
 
 ---
